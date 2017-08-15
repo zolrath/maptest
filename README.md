@@ -5,8 +5,10 @@ This is a brand new React Native project that has installed the Heatmaps pull re
 
 ## To run the project you can simply:
 
+1. `git clone https://github.com/zolrath/maptest.git`
+1. `cd maptest`
 1. `npm install`
-2. `react-native run-ios` or `react-native run-android`
+1. `react-native run-ios` or `react-native run-android`
 
 You should then see a heatmap on either iOS Apple Maps or Android Google Maps.
 
