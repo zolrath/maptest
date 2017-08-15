@@ -1,7 +1,9 @@
 # react-native-maps Heatmap Example
 
 This is a brand new React Native project that has installed the Heatmaps pull request via  
-`npm install https://github.com/airbnb/react-native-maps#pull/1549/head --save`
+`npm install https://github.com/airbnb/react-native-maps#pull/1549/head --save`  
+followed by a  
+`react-native link`  
 
 ## To run the project you can simply:
 
