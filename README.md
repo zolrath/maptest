@@ -9,3 +9,4 @@ To run the project you can simply:
 2. `react-native run-ios` or `react-native run-android`
 
 You should then see a heatmap on either iOS Apple Maps or Android Google Maps.
+![Android Heatmap](/images/android.jpg?raw=true "Android Heatmap")
